@@ -10,3 +10,4 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 2 "Rock Paper Scissors"
 
 - [Rust](./day2/day2_rust/src/main.rs) Solution
+- [Elm](./day2/day2_elm/src/Main.elm) Solution
