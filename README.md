@@ -11,3 +11,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 
 - [Rust](./day2/day2_rust/src/main.rs) Solution
 - [Elm](./day2/day2_elm/src/Main.elm) Solution
+
+## Day 3 "Rucksack Reorganization"
+
+- [Rust](./day3/day3_rust/src/main.rs) Solution
