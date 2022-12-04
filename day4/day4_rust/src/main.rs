@@ -48,7 +48,6 @@ impl Range {
 
     fn overlaps(&self, range: &Range) -> bool {
         self.start <= range.start && self.end >= range.start
-            || self.start <= range.end && self.end >= range.end
     }
 }
 
