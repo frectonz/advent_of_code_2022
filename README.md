@@ -21,3 +21,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 
 - [Rust](./day4/day4_rust/src/main.rs) Solution
 - [Go](./day4/day4_go/main.go) Solution
+
+## I've completed "Supply Stacks"
+
+- [Rust](./day5/day5_rust/src/main.rs) Solution
