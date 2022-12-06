@@ -25,3 +25,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 5 "Supply Stacks"
 
 - [Rust](./day5/day5_rust/src/main.rs) Solution
+
+## Day 6 "Tuning Trouble"
+
+- [Go](./day6/day6_go/main.go) Solution
