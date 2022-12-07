@@ -6,6 +6,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 
 - [OCaml](./day1/day1_ocaml/bin/main.ml) Solution
 - [Go](./day1/day1_go/main.go) Solution
+- [TypeScript](./day1/day1_ts/main.ts) Solution
 
 ## Day 2 "Rock Paper Scissors"
 
