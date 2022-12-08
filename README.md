@@ -30,3 +30,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 6 "Tuning Trouble"
 
 - [Go](./day6/day6_go/main.go) Solution
+
+## Day 7 "No Space Left On Device"
+
+- [Rust](./day7/day7_rust/src/main.rs) Solution
