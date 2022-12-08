@@ -34,3 +34,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 7 "No Space Left On Device"
 
 - [Rust](./day7/day7_rust/src/main.rs) Solution
+
+## Day 8 "No Space Left On Device"
+
+- [Rust](./day8/day8_rust/src/main.rs) Solution
