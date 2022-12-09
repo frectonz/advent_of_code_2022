@@ -39,3 +39,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 
 - [Rust](./day8/day8_rust/src/main.rs) Solution
 - [Go](./day8/day8_go/main.go) Solution
+
+## Day 9 "Rope Bridge"
+
+- [Rust](./day9/day9_rust/src/main.rs) Solution
