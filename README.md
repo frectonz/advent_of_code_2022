@@ -47,3 +47,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 10 "Cathode-Ray Tube"
 
 - [Rust](./day10/day10_rust/src/main.rs) Solution
+
+## Day 11 "Monkey in the Middle"
+
+- [Rust](./day11/day11_rust/src/main.rs) Solution
