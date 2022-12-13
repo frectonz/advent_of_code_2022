@@ -157,7 +157,7 @@ mod tests {
     use crate::{part1, part2};
 
     #[test]
-    fn part1_example() {
+    fn part1_test() {
         let input = include_str!("../../test");
         assert_eq!(part1(input), 13);
 
@@ -166,7 +166,7 @@ mod tests {
     }
 
     #[test]
-    fn part2_answer() {
+    fn part2_test() {
         let input = include_str!("../../test");
         assert_eq!(part2(input), 140);
 
