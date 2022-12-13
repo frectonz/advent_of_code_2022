@@ -55,3 +55,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 12 "Hill Climbing Algorithm"
 
 - [Rust](./day12/day12_rust/src/main.rs) Solution `Unsolved`
+
+## Day 13 "Distress Signal"
+
+- [Rust](./day13/day13_rust/src/main.rs) Solution
