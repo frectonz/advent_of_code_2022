@@ -50,4 +50,8 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 
 ## Day 11 "Monkey in the Middle"
 
-- [Rust](./day11/day11_rust/src/main.rs) Solution
+- [Rust](./day11/day11_rust/src/main.rs) Solution `Part 2 Unsolved`
+
+## Day 12 "Hill Climbing Algorithm"
+
+- [Rust](./day12/day12_rust/src/main.rs) Solution `Unsolved`
