@@ -59,3 +59,7 @@ This repository contains my solutions to the [Advent of Code 2022](https://adven
 ## Day 13 "Distress Signal"
 
 - [Rust](./day13/day13_rust/src/main.rs) Solution
+
+## Day 14 "Regolith Reservoir"
+
+- [Rust](./day14/day14_rust/src/main.rs) Solution
